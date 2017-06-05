@@ -7,3 +7,6 @@
 __pycache__ 
 .DS_Store 
 [Tt]humbs.db
+*.sdf
+*.suo
+*.user
