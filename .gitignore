@@ -1,0 +1,9 @@
+*.o 
+*.so 
+*.so.[0-9]* 
+*.a 
+*.pyc 
+*.pyo 
+__pycache__ 
+.DS_Store 
+[Tt]humbs.db
