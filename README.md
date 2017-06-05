@@ -1,2 +1,2 @@
 # ImageProcess
-This repository contains some methods for image processing
+This repository contains some projects for image processing
